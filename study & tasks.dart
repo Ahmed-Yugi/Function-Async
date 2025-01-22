@@ -17,6 +17,6 @@ void stringUserInPut()async{ //  Answer Q1 ---------------------->>>>>>>
          print(ee);
 }
 Future readingdata(){   //  Answer Q1 --------------------------->>>>>>>
-    return Future.delayed(Duration(seconds: 3) , () => "Wait For Readin Data ........");
+    return Future.delayed(Duration(seconds: 3) , () => "Wait For Reading Data ........");
 }
 void certainnumber(int a) => print((a*a)*a); // Answer Q2 ---------->>>
